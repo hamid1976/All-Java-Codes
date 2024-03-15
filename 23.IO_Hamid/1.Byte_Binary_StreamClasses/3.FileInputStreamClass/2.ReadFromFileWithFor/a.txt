@@ -1,0 +1,3 @@
+Reading from File and 
+converting in character with
+help of for loop

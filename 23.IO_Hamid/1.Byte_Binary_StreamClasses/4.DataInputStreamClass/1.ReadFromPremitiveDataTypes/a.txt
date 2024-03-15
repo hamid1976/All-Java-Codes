@@ -1,0 +1,4 @@
+This class Proovide Input Methods-
+those input Methods read any premitive
+DataTypes From any Input Device such as keyboard File
+or Remote Machine
